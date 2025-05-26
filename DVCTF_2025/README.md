@@ -10,6 +10,6 @@ Categories : OSINT
 
 Challenges completed: 
 - [A - Reconnaissance](/DVCTF_2025/OSINT/A-Reconnaissance/README.md)
-- B - Prevent
-- C - Coordinates ?
+- [B - Prevent](/DVCTF_2025/OSINT/B-Prevent/README.md)
+- [C - Coordinates ?](/DVCTF_2025/OSINT/C-Coordinates/README.md)
 - [1 - Research](/DVCTF_2025/OSINT/1-Research/README.md)
