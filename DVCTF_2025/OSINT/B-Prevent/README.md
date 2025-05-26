@@ -11,18 +11,24 @@ DVCTF{DENON-902_RICHELIEU-612_SULLY-1983104}
 
 ## Challenge Description:
 
-*Disclaimer: This is a reconstitution of the challenge's description, as I do not have access to the original text as of right now.*
-
 You have been found by the OCBC (Office central de lutte contre le trafic des biens culturels - Central Office for Combating Trafficking in Cultural Property). To guarantee your freedom, you must cooperate: if you manage to provide all the information relating to the investigation, no charges will be brought against you.
 
-A robbery has been planned to take place soon at the Louvre, and some specific artwork is going to be targeted:
-- Les trois dames de Gand (Anonymous)
-- Dame à sa toilette (P. Jacobsz)
-- Le Lion de Florence (N.A. France)
+We have identified that the following works will be attempting to be stolen shortly :
 
-You will need to retrieve their RF inventory numbers and wings of the Louvre they are currently located in and compile it into a flag in the following format:  
+- Les trois dames de Gand
+- Dame à sa toilette (Pieter Jacobsz Codde)
+- Le Lion de Florence (Nicolas André Monsiau)
 
-Flag format: DVCTF{WING1-RF1_WING2-RF2_WING3-RF3}
+Your mission is to find the name of the AILE in which the items are stored, as well as their main inventory number.
+
+The flag is in the form : DVCTF{AILE1-RF1_AILE2-RF2_AILE3-RF3}.
+
+Example:
+
+Artwork 1 in the DaVinci AILE with RF number 123  
+Artwork 2 in the Leonardo AILE with an RF number 456 789  
+Artwork 3 in the Mona Lisa AILE with an RF number of 1011  
+=> DVCTF{DAVINCI-123_LEONARDO-456789_MONA-1011}
 
 ## Write up  
 
