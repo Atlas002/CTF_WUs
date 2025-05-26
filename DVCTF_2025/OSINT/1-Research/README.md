@@ -30,7 +30,7 @@ We start the challenge with only one piece of information: the username **Willow
 
 A formal google search will yield you little to nothing (except if you're in the market for a wool scarf), so on we go to search socmint sources.
 
-Using [Oscar Zulu](https://www.linkedin.com/company/oscar-zulu-osint/posts/?feedView=all)'s wonderfull [Rhino User Checker](https://usercheck.oscarzulu.org/) and searching for the username `Willow-Wool`, we end up with the following result : 
+Using [Oscar Zulu](https://www.linkedin.com/company/oscar-zulu-osint/posts/?feedView=all)'s wonderful [Rhino User Checker](https://usercheck.oscarzulu.org/) and searching for the username `Willow-Wool`, we end up with the following result: 
 
 ![rhinoresult](img/image1.png)
 
@@ -43,7 +43,7 @@ Checking the bluesky account that we found leads us to [this](https://bsky.app/p
 
 ![bskyacc2](img/image3.png)  
 
-This is nothing short of a gold mine, let's recap what we've found :
+This is nothing short of a gold mine, let's recap what we've found:
 - The guy's a manager at a large company
 - He loves running
 - He's pissed at public transit (understandable)
@@ -70,29 +70,29 @@ With the post's description talking about commute, we can assume the picture was
 
 ![work2](img/image7.png)
 
-If we search `Jennings Funeral Directors Ireland` on maps, we end up with only a handfull of results, all located in Dublin :
+If we search `Jennings Funeral Directors Ireland` on maps, we end up with only a handful of results, all located in Dublin:
 
 ![work3](img/image8.png) 
 
-Going through them, we find that the one located at Amiens St is the only one that ressemble ours :
+Going through them, we find that the one located at Amiens St is the only one that resembles ours:
 
 ![work4](img/image9.png) 
 
-And just looking a bit to the left, we have our bingo :
+And just looking a bit to the left, we have our bingo:
 
 ![work5](img/image10.png) 
 
-Knowing we're in the right place, we look in the vincinity of the place to see where our man could be working. Let's remember that his bio reads `"Manager in a large company"`.
+Knowing we're in the right place, we look in the vicinity of the place to see where our man could be working. Let's remember that his bio reads `"Manager in a large company"`.
 
 Looking around the place we found, the only one that would fit this description would be **this**:
 
 ![work6](img/image11.png) 
 
-Heading over to their listed website, this looks like a "large company" indeed : 
+Heading over to their listed website, this looks like a "large company" indeed: 
 
 ![work7](img/image12.png)   
 
-Googling `Merkle head office` and scrolling a bit leads us to [this](https://craft.co/merkle/locations) very helpful website :
+Googling `Merkle head office` and scrolling a bit leads us to [this](https://craft.co/merkle/locations) very helpful website:
 
 ![work8](img/image13.png)   
 
@@ -104,11 +104,11 @@ Here it is: **Columbia**, South Carolina !
 
 Great, we're almost done with this. The last part of the flag is "the monument closest to his current place of 'work'". 
 
-Looking back to his office in dublin, we just look at the "monuments" listed by Maps : 
+Looking back to his office in Dublin, we just look at the "monuments" listed by Maps: 
 
 ![monu1](img/image14.png)   
 
-And we see that ther closest one seems to be **The Five Lamps** ! 
+And we see that the closest one seems to be **The Five Lamps**! 
 
 ![monu2](img/image15.png)   
 
@@ -119,11 +119,11 @@ With everything we found so far, we can put the flag back together :
 
 `DVCTF{Ireland_Columbia_The-Five-Lamps}`
 
-Thank you for reading this far, this is my first write up so i'm open to feedback as for layout/readability! 
+Thank you for reading this far, this is my first write-up so I'm open to feedback regarding layout/readability! 
 
 Again, huge props to  [DaVinciCode](https://www.linkedin.com/company/davincicode/posts/?feedView=all) for coming up with this challenge.
 
-Sadly as I completed this at the end of day one on site, I did not complete the `2 - Accomplice` nor `3 - Raid` challenge and don't have a write up for them at the moment. 
+Sadly, as I completed this at the end of day one on site, I did not complete the `2 - Accomplice` nor `3 - Raid` challenges and don't have a write-up for them at the moment. 
 
 Some congratulations are in order for our colleagues at [0xECE](https://www.linkedin.com/company/equipe0xece/) for first-blooding this challenge!
 
