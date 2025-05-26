@@ -117,7 +117,7 @@ And we see that ther closest one seems to be **The Five Lamps** !
 
 With everything we found so far, we can put the flag back together : 
 
-**DVCTF{Ireland_Columbia_The-Five-Lamps}**
+`DVCTF{Ireland_Columbia_The-Five-Lamps}`
 
 Thank you for reading this far, this is my first write up so i'm open to feedback as for layout/readability! 
 
@@ -125,6 +125,6 @@ Again, huge props to  [DaVinciCode](https://www.linkedin.com/company/davincicode
 
 Sadly as I completed this at the end of day one on site, I did not complete the `2 - Accomplice` nor `3 - Raid` challenge and don't have a write up for them at the moment. 
 
-Some congratulationsare in order for our colleagues at [0xECE](https://www.linkedin.com/company/equipe0xece/) for first-blooding this challenge!
+Some congratulations are in order for our colleagues at [0xECE](https://www.linkedin.com/company/equipe0xece/) for first-blooding this challenge!
 
 A last thank you for everyone who was on site, the vibes were incredible and see you next year ! 
