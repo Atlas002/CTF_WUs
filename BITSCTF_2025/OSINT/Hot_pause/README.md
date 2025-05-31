@@ -1,6 +1,6 @@
 # BITSCTF 2025 - OSINT : Hot Pause 
 
-- Write-Up Author:  [Atlas](https://github.com/Atlas002) - [0xECE - 3](https://www.linkedin.com/company/asso0xece/posts/?feedView=all)
+- Write-Up Author:  [Atlas](https://github.com/Atlas002) - [0xECE - 3](https://ctftime.org/team/371280)
 
 - All credits for the challenge go to [BITSkrieg](https://www.linkedin.com/company/bitskrieg/posts/?feedView=all).
 <details>

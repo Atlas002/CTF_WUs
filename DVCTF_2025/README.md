@@ -2,7 +2,7 @@
 
 Collection of the write ups of the challenges I completed during the DVCTF 2025 organised by [DaVinciCode](https://www.linkedin.com/company/davincicode/posts/?feedView=all).
 
-Team : [Les Seconds Choix](https://dvc.tf/teams/34)
+Team : [Les Seconds Choix](https://ctftime.org/team/387097) - 14th / 276
 
 Location : On-site
 

@@ -2,7 +2,7 @@
 
 Collection of the write ups of the challenges I completed during the DVCTF 2025 organised by [BITSkrieg](https://www.linkedin.com/company/bitskrieg/posts/?feedView=all).
 
-Team : [0xECE - 3](https://www.linkedin.com/company/asso0xece/posts/?feedView=all)
+Team : [0xECE - 3](https://ctftime.org/team/371280) - 138th / 848
 
 Location : Online
 
