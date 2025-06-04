@@ -85,6 +85,54 @@ The answer to our riddle dear.
 
 [Work in Progress]
 
+[LOCATION => PERSON => FLAG]
+
+*Caveat: I am currently writing this WU several months after the CTF took place. I am trying to reenact the way of thinking I employed as best as possible*
+
+This challenge mainly relies on deduction and reading between the lines. We'll try to look into the relevant bits of the poem:
+```
+Where royal blood once stained the street.
+```
+```
+Where kinsmen plotted, took their aim.  
+The crown did fall, a nation reeled, 
+```
+=> [Murder of Lord Darnley in Edinburgh, Scotland](https://en.wikipedia.org/wiki/Murder_of_Lord_Darnley)
+
+```
+In Scotland's heart, the truth concealed. 
+```
+=> Capital of Scotland, Edinburgh
+
+```
+Find where the old and new entwine,  
+Where modern glass meets ancient spine.  
+The murder's stage, now tourist's fare,  
+```
+=> murder took place in the [Old Provost's House of The Collegiate Church of St Mary in the Fields](https://en.wikipedia.org/wiki/Kirk_o%27_Field), which is now the [Old College](https://en.wikipedia.org/wiki/Old_College,_University_of_Edinburgh) which is a [tourist destination](https://www.tripadvisor.co.uk/ShowUserReviews-g186525-d313460-r743084694-University_of_Edinburgh-Edinburgh_Scotland.html), conforts us in our findings.
+
+```
+In misty glens where thistles grow,
+```
+=> thistle, [national flower](https://www.visitscotland.com/things-to-do/attractions/arts-culture/thistle) of scotland 
+``` 
+Seek ye the place where justice dwells,  
+In chambers where the truth compels,
+```
+=> justice? 
+
+```
+A door of crimson, walls of white,  
+Guard secrets of that fateful night.  
+```
+=> red door with white wall close to the secret? 
+
+```
+A guardian of rights has won,  
+```
+=> Someone defending rights, lawyer?
+
+
 ## Results
 
 From our investigation, we can assume the flag to be :
