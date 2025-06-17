@@ -8,6 +8,11 @@
 BITSCTF{Sinclairs}
 </details>
 
+## ***DISCLAIMER***
+
+This OSINT challenge involves a ***REAL PERSON***.  
+Do not ***CONTACT*** , ***HARASS*** ,  ***INTERACT*** or ***IMPERSONATE*** this person.
+
 ## Challenge Description:
 
 In misty glens where thistles grow,  
@@ -82,12 +87,11 @@ The answer to our riddle dear.
 
 
 ## Write up  
+## Write-up
 
-[Work in Progress]
+### Part 1 - Interpreting the Clues
 
-[LOCATION => PERSON => FLAG]
-
-*Caveat: I am currently writing this WU several months after the CTF took place. I am trying to reenact the way of thinking I employed as best as possible*
+*Caveat:* I wrote this write-up several months after the CTF took place. I am reconstructing my original thought process as accurately as possible.
 
 This challenge mainly relies on deduction and reading between the lines. We'll try to look into the relevant bits of the poem:
 ```
@@ -97,40 +101,119 @@ Where royal blood once stained the street.
 Where kinsmen plotted, took their aim.  
 The crown did fall, a nation reeled, 
 ```
-=> [Murder of Lord Darnley in Edinburgh, Scotland](https://en.wikipedia.org/wiki/Murder_of_Lord_Darnley)
+-  [Murder of Lord Darnley in Edinburgh, Scotland](https://en.wikipedia.org/wiki/Murder_of_Lord_Darnley)
 
 ```
 In Scotland's heart, the truth concealed. 
 ```
-=> Capital of Scotland, Edinburgh
+- Capital of Scotland, Edinburgh
 
 ```
-Find where the old and new entwine,  
-Where modern glass meets ancient spine.  
-The murder's stage, now tourist's fare,  
+Find where the old and new entwine,
+Where modern glass meets ancient spine.
 ```
-=> murder took place in the [Old Provost's House of The Collegiate Church of St Mary in the Fields](https://en.wikipedia.org/wiki/Kirk_o%27_Field), which is now the [Old College](https://en.wikipedia.org/wiki/Old_College,_University_of_Edinburgh) which is a [tourist destination](https://www.tripadvisor.co.uk/ShowUserReviews-g186525-d313460-r743084694-University_of_Edinburgh-Edinburgh_Scotland.html), conforts us in our findings.
+-  Murder took place in the [Old Provost's House of The Collegiate Church of St Mary in the Fields](https://en.wikipedia.org/wiki/Kirk_o%27_Field), now the [Old College](https://en.wikipedia.org/wiki/Old_College,_University_of_Edinburgh), a tourist destination, which confirms our findings.
 
+![muder place](img/map1.png)
 ```
 In misty glens where thistles grow,
 ```
-=> thistle, [national flower](https://www.visitscotland.com/things-to-do/attractions/arts-culture/thistle) of scotland 
+- Thistle, [national flower](https://www.visitscotland.com/things-to-do/attractions/arts-culture/thistle) of Scotland 
 ``` 
 Seek ye the place where justice dwells,  
 In chambers where the truth compels,
 ```
-=> justice? 
+- ``Justice``, `chambers` : we are probably looking for a law office 
 
 ```
 A door of crimson, walls of white,  
 Guard secrets of that fateful night.  
 ```
-=> red door with white wall close to the secret? 
+- Red door with white wall close to the secret? 
 
 ```
 A guardian of rights has won,  
 ```
-=> Someone defending rights, lawyer?
+- Someone defending rights, lawyer?
+
+```
+In shadows of the old town's reach,  
+Where history and present meet,  
+The answers to this riddle lie,  
+```
+- Somewhere in or near Edinburgh's old town (here in dark brown on the map)
+
+![old town map](img/map2.png)
+
+```Not far from where the monarch fell,  
+A modern Portia casts his spell,  
+```
+- [Portia](https://en.wikipedia.org/wiki/Portia_(The_Merchant_of_Venice)#:~:text=assumes%20the%20role%20of%20a%20lawyer), a character in the play *The Merchant of Venice*, assumes the role of a lawyer during the 4th act of the play.
+
+
+```
+With crimson door and snowy wall,  
+He stands where justice casts its pall. 
+```
+- Again with the white walls and red door
+
+```
+Defender of the accused and shamed,  
+This legal eagle, justly famed,
+```
+- we can assume he's a defence lawyer
+
+
+```
+A gentleman of law, not dame,  
+His office near the scene of shame, 
+```
+- We're looking for a man
+
+
+```
+His name, a regal echo strong,  
+[...]  
+A Henry bold, with George before,  
+```
+- `Henry [...] with George before` : we can assume his name is `George Henry`.
+
+
+```
+Now seek the plate upon the door,  
+The final clue you're searching for,  
+What name is etched in letters clear?  
+The answer to our riddle dear.  
+```
+- The flag is a name on the plate above a door
+
+---
+### Part 2 - Piecing it all together
+
+Okay, so to resume what we found :  
+- We're looking for a **defence lawyer**  
+- His name is **George Henry**  
+- His office is in **Edinburgh, Scotland**, in or near the **Old Town**, and has **white walls** and a **red door**.
+
+When looking up `George Henry defence lawyer Edinburgh` on Google, our first result is this:
+
+![search result](img/searchRes1.png)
+
+
+Clicking on the [link](http://sinclairscdl.co.uk/wp2/?page_id=2) leads us to the law firm's website, where we can see the mention of our `George Henry` which seems to be a partner at the firm: 
+
+![website](img/searchRes2.png)
+
+We also get an address: `207 Pleasance, Edinburgh, EH8 9RU`  
+Putting this into maps and looking in street view leads us here : 
+
+![streetview1](img/streetView1.png)
+
+Looking closer, we can see our fabled white walls and red door, as well.
+
+![streetview2](img/streetView2.png)
+
+And for the name on the plate above the door, we get our flag: **Sinclairs**.
 
 
 ## Results
