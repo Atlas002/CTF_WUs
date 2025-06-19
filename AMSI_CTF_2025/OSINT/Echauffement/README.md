@@ -67,7 +67,7 @@ Exploring around in streetview, we end up on [this road](https://maps.app.goo.gl
 
 ![satView](img/satView1.png)
 
-When then go over to [What3word](https://what3words.com/) and look for our spot. We need to be precise: 
+We then go over to [What3word](https://what3words.com/) and look for our spot. We need to be precise: 
 - The photograph was taken on the sidewalk
 - Between the 4th and 5th lampposts from the roundabout 
 - 3 trees away from the 4th lamppost.
