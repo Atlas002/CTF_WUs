@@ -10,7 +10,7 @@ Categories : OSINT, Side Channel
 
 Challenges completed: 
 - Side Channel
-    - [Les secrets de la conso](/AMSI_CTF_2025/Side%20Channel/Les%20secrets%20de%20la%20conso/README.md)
+    - [Les Secrets de la Conso](/AMSI_CTF_2025/Side%20Channel/Les%20secrets%20de%20la%20conso/README.md)
     
 - Osint
     - [Échauffement](/AMSI_CTF_2025/OSINT/Echauffement/README.md)
