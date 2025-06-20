@@ -17,6 +17,8 @@ Flag format : AMSI{key_hexa}
 
 Exemple : AMSI{f3d9c4ab7610efbb29a3dd5e8e1b29f0}
 
+[traces.p](src/traces.p)
+
 ## Write up  
 
 
