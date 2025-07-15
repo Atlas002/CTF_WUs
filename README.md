@@ -15,6 +15,8 @@ This is a repository for all my write-ups in the CTFs I participated in (mostly 
 
 - [Shutlock 2025](/Shutlock_2025/README.MD) - participated ``online`` solo from 20/06/2025 - 30/06/2025. Placed 78th out of 294.
 
-- [Industrial Intrusion](/Industrial_intrusion/README.MD) - participated ``online`` as part of team [`0xECE - OSINTerns`](https://www.linkedin.com/company/asso0xece/) from 27/06/2025 - 29/06/2025. 
+- [Industrial Intrusion](/Industrial_intrusion/README.MD) - participated ``online`` as part of team [`0xECE - OSINTerns`](https://www.linkedin.com/company/asso0xece/) from 27/06/2025 - 29/06/2025. Placed 252nd out of 5985.
+
+- [L3ak CTF 2025](/L3ak_CTF_2025/README.md) - participated ``online`` as part of team [`0xECE`](https://www.linkedin.com/company/asso0xece/) from 11/07/2025 - 13/07/2025. Placed 486th out of 1587.
 
 This is a current work in progress

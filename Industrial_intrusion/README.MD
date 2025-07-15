@@ -2,7 +2,7 @@
 
 Collection of the write ups of the challenges I completed during the Industrial Intrusion CTF organised by [TryHackMe](https://tryhackme.com/room/industrial-intrusion).
 
-Team : [0xECE - OSINTern](https://www.linkedin.com/company/asso0xece/) - 
+Team : [0xECE - OSINTern](https://www.linkedin.com/company/asso0xece/) - 252nd / 5985
 
 Location : Online
 
