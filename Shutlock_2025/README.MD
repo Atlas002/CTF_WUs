@@ -2,7 +2,7 @@
 
 Collection of the write ups of the challenges I completed during the Shutlock CTF 2025 organised by the [DGSI - Direction Générale de la Sécurité Intérieure](https://www.dgsi.interieur.gouv.fr/) and [EPITA](https://www.epita.fr/) 
 
-Results : 78th / 294 
+Results : 78th / 922 
 
 Location : Online
 

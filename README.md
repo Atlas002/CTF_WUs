@@ -13,7 +13,7 @@ This is a repository for all my write-ups in the CTFs I participated in (mostly 
 
 - [AMSI CTF 2025](/AMSI_CTF_2025/README.md) - Participated ``on site`` as part of team [`0xECE - CyberSharks`](https://ctftime.org/team/389816) from 13/06/2025 - 14/06/2025. Placed 8th out of 14.
 
-- [Shutlock 2025](/Shutlock_2025/README.MD) - participated ``online`` solo from 20/06/2025 - 30/06/2025. Placed 78th out of 294.
+- [Shutlock 2025](/Shutlock_2025/README.MD) - participated ``online`` solo from 20/06/2025 - 30/06/2025. Placed 78th out of 922.
 
 - [Industrial Intrusion](/Industrial_intrusion/README.MD) - participated ``online`` as part of team [`0xECE - OSINTerns`](https://www.linkedin.com/company/asso0xece/) from 27/06/2025 - 29/06/2025. Placed 252nd out of 5985.
 
