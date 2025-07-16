@@ -9,6 +9,6 @@ Location : Online
 Categories : OSINT
 
 Challenges completed: 
-- [Sunny Day]()
-- [Mountain View]()
-- [Grain Of Truth]()
+- [Sunny Day](OSINT/Sunny_day/README.md)
+- [Mountain View](OSINT/Mountain_view/README.md)
+- [Grain Of Truth](OSINT/Grain_of_truth/README.md)
