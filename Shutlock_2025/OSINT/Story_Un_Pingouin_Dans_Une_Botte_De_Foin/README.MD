@@ -17,8 +17,40 @@ Nous vous demandons d’enquêter sur Line Huks et d’en apprendre davantage su
 
 ## Write up  
 
-[Work in Progress]
+We know we're trying to get more info on the studio that Line Huks has hired, for that we'll try to find if she has any digital presence. 
 
+To do that, we will be using [Oscar Zulu](https://www.linkedin.com/company/oscar-zulu-osint/posts/?feedView=all)'s [Rhino User Checker](https://usercheck.oscarzulu.org/) and searching for the username `LineHuks`, we end up finding a Reddit, X and Bluesky account :  
+
+![rpuc](img/rpuc.png)
+
+
+On her [Reddit account](https://www.reddit.com/user/LineHuks/), we can see that she posted on the `r/AujourdhuiJaiAppris` subreddit (equivalent of `r/TodayILearned`) saying that, when you're connected on a tiktok account and you share a link in the type of `vm.tiktok.com`, it can reccomend your personnal account to people who use that link. 
+
+![reddit](img/reddit.png)
+
+On her [Twitter/X account](https://x.com/LineHuks), we see that she didn't post anything but has a link to her bluesky profile in her account bio.
+
+![twitter](img/twitter.png)
+
+Heading over to her [Bluesky account](https://bsky.app/profile/linehuks.bsky.social), we can see that she shared a [tiktok video](https://vm.tiktok.com/ZNdjwpCF4/) :
+
+![bsky](img/bsky.png)
+
+When reading the post she shared about tiktok links, we learn that we need to either emulate or use a phone and not be logged into a tiktok account for the recommandation to appear. 
+
+Following these guidelines leads us to this : 
+
+![tklink](img/tklink.png)
+
+We see that we're recommended the tiktok account [**Le studio du Tux**](https://www.tiktok.com/@lestudiodutux)
+
+Heading over to the tiktok account, we can see that they have several videos, one of which is labeled with "Le DCP c'est essentiel!". As we're looking for the studio that handled her movie's DCP, this looks like a strong hint : 
+
+![vidtitle](img/vidtitle.png)
+
+Indeed, while watching through the video we can see the flag appear around the 30 seconds mark :
+
+![flag](img/flag.png)
 
 ## Results
 

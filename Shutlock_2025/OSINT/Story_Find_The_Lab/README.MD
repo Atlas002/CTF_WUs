@@ -15,7 +15,7 @@ En fouillant le site WEB de ForaCorp, nos experts ont trouvé cette image assez 
 
 Format de flag : SHLK{nomresidence_etage}
 
-![lab](src/lab.jpg)
+![lab](img/lab.jpg)
 
 ## Write up  
 
