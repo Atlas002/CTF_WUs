@@ -4,7 +4,7 @@ Collection of the write ups of the challenges I completed during the Diver OSINT
 
 Result : 360th / 668.
 
-Location : Online
+Location : Online 
 
 Categories : OSINT
 
