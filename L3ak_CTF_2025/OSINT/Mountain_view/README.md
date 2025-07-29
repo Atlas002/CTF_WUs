@@ -1,6 +1,6 @@
 # L3ak CTF 2025 - OSINT : Mountain View
 
-- Write-Up Author:  [Atlas](https://github.com/Atlas002) 
+- Write-Up Author:  [Atlas](https://github.com/Atlas002) - [0xECE](https://www.linkedin.com/company/asso0xece/)
 
 - All credits for the challenge go to [L3ak Team](https://l3ak.team/).
 
