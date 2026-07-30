@@ -1,6 +1,6 @@
 # CTF Write-Ups
 
-This is a repository for all my write-ups in the CTFs I participated in (mostly OSINT).
+This is a repository for all my write-ups in the CTFs I participated in.
 
 * [RhineTech CTF 2025](./)  
 Participated `on site` as part of team [`0xECE`](https://www.linkedin.com/company/asso0xece/) on 25/11/2025.  
