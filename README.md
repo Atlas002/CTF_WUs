@@ -2,8 +2,10 @@
 
 This is a repository for all my write-ups in the CTFs I participated in (mostly OSINT).
 
-* [RhineTech CTF 2025](./) Participated `on site` as part of team [`0xECE`](https://www.linkedin.com/company/asso0xece/) on 25/11/2025. Placed **2nd** out of 40.
-* [DeadFace CTF 2025](./) Participated `online` as part of team [`0xECE`](https://www.linkedin.com/company/asso0xece/) from 25/10/2025 to 26/10/2025. Placed 19th out of 787.
+* [RhineTech CTF 2025](./) Participated `on site` as part of team [`0xECE`](https://www.linkedin.com/company/asso0xece/) on 25/11/2025.
+Placed **2nd** out of 40.
+* [DeadFace CTF 2025](./) Participated `online` as part of team [`0xECE`](https://www.linkedin.com/company/asso0xece/) from 25/10/2025 to 26/10/2025.
+Placed 19th out of 787.
 * [ECW Qualifiers CTF 2025](ECW_Quals_2025/)\
   Participated `online` solo from 8/10/2025 - 22/10/2025.\
   Placed 21st out of 618 for students and 26th out of 1111 overall.
